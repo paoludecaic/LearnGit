@@ -34,7 +34,7 @@
     查看仓库当前的状态    git status
 
     添加远程仓库    git remote add origin URL
-
+    查看当前已有仓库    git remote -v
     推送到远程仓库  git push -u origin master
         默认master分支
 
