@@ -6,8 +6,8 @@
 
     2、配置git
 
-    配置用户名       git user.name='GithubUsername'
-    配置用户邮箱     git user.email=1234567890@xxx.com
+    配置用户名       git user.name 'GithubUsername'
+    配置用户邮箱     git user.email 1234567890@xxx.com
 
     3、基础命令行
 
