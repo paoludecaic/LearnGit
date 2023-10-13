@@ -11,3 +11,4 @@
 四、github的注册与使用
     1、github：https://github.com/
     2、仓库的创建和删除
+    3、上传代码及SSH秘钥的配置
